@@ -1,1 +1,2 @@
-# C-29Pr
+# zombie-crush-1
+project solution for c29
